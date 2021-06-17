@@ -1,4 +1,4 @@
-<strong> Install
+<strong> • How to Install </strong>
 
 - pkg install git
 - pkg install python
