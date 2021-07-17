@@ -1,3 +1,11 @@
+"""
+Ini adalah script untuk view cctv melalui ip
+
+Coded By KZ
+
+Ini adalah script sederhana
+"""
+
 import os
 import re
 import time
