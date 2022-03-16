@@ -7,5 +7,5 @@
 - pip install requests
 - pip install bs4
 - git clone https://github.com/CHAYT0N/CCTV
-- cd CCTV
+- cd CCTV-Public
 - python cctv.py
